@@ -1,0 +1,20 @@
+cache:
+  enabled: true
+  check:
+    method: hash
+  gzip: false
+
+assets:
+  css_pipeline: false
+  js_pipeline: false
+
+twig:
+  cache: true
+  debug: true
+
+debugger:
+  enabled: true
+
+strict_mode:
+    yaml_compat: false
+    twig_compat: false
