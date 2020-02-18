@@ -10,7 +10,7 @@ Bu repository Erpapay API için dokümantasyon içermektedir. Dokümantasyon Gra
 
 # Gereksinimler
 
-- PHP 7.1.3 ya da daha yüksek versiyonu gerekmektedir. [gerekli_modüller](https://learn.getgrav.org/basics/requirements#php-requirements) kontrol ediniz.
-- [Apache](https://learn.getgrav.org/basics/requirements#apache-requirements) ya da [IIS](https://learn.getgrav.org/basics/requirements#iis-requirements) gereksinimlerini kontrol ediniz.
+- PHP 7.1.3 ya da daha yüksek versiyonu gerekmektedir. Kontrol edebilirsiniz: [gerekli_modüller](https://learn.getgrav.org/basics/requirements#php-requirements).
+- Kontrol edebilirsiniz: [Apache](https://learn.getgrav.org/basics/requirements#apache-requirements) ya da [IIS](https://learn.getgrav.org/basics/requirements#iis-requirements)
 
 
